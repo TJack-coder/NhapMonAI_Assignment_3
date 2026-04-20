@@ -1,0 +1,35 @@
+{
+  "feature_names": [
+    "material_diff",
+    "pawn_diff",
+    "knight_diff",
+    "bishop_diff",
+    "rook_diff",
+    "queen_diff",
+    "mobility_diff",
+    "center_control_diff",
+    "attack_pressure_diff",
+    "developed_minor_diff",
+    "king_safety_diff",
+    "white_in_check",
+    "black_in_check",
+    "side_to_move"
+  ],
+  "weights": {
+    "material_diff": 0.7539715292420042,
+    "pawn_diff": 0.28424473914046267,
+    "knight_diff": 0.5454116504470353,
+    "bishop_diff": 0.5438151279685489,
+    "rook_diff": 1.0031358393430219,
+    "queen_diff": 1.8014348306830623,
+    "mobility_diff": -0.010232625994991676,
+    "center_control_diff": 0.0770079281145409,
+    "attack_pressure_diff": 0.06536647194279552,
+    "developed_minor_diff": 0.19373342864277932,
+    "king_safety_diff": 0.019700281855526195,
+    "white_in_check": -0.665377845470818,
+    "black_in_check": 0.6665828386559878,
+    "side_to_move": 0.035687783573670175
+  },
+  "bias": -0.008120741386591898
+}
